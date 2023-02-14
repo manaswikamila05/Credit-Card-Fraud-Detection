@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# :no_good: :credit_card:  :bust_in_silhouette: Credit-Card-Fraud-Detection
 
 Build a fraud detection model to help banks identify credit card frauds and be vigilant enough to reduce losses incurred due to such unauthorised transactions by the fraudsters.
 
