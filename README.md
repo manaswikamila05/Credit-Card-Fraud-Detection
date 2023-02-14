@@ -2,7 +2,7 @@
 
 Build a fraud detection model to help banks identify credit card frauds and be vigilant enough to reduce losses incurred due to such unauthorised transactions by the fraudsters.
 
-## :pushpin Business Understanding
+## :pushpin: Business Understanding
 In recent times, the number of fraud transactions has increased drastically, due to which credit card companies are facing a lot of challenges. For many banks, retaining high profitable customers is the most important business goal. Banking fraud, however, poses a significant threat to this goal. In terms of substantial financial loss, trust and credibility, banking fraud is a concerning issue for both banks and customers alike. With the rise in digital payment channels, the number of fraudulent transactions is also increasing as fraudsters are finding new and different ways to commit such crimes.
 
 Credit card fraud is an inclusive term for fraud that is committed using a payment card, such as a credit card or a debit card, by stealing the card information through skimmers. The Federal Trade Commission (US) has estimated that around 10 million people become victims of credit card theft each year. Credit card companies lose close to $50 billion per year to fraud.
@@ -32,7 +32,7 @@ Credit card fraud is any dishonest act or behaviour to obtain information withou
 This is a simulated data set taken from the Kaggle website and contains both legitimate and fraudulent transactions. 
 The data set contains credit card transactions of around 1,000 cardholders with a pool of 800 merchants from 1 Jan 2019 to 31 Dec 2020. It contains a total of 18,52,394 transactions, out of which 9,651 are fraudulent transactions. The data set is highly imbalanced, with the positive class (frauds) accounting for 0.52% of the total transactions. Now, since the data set is highly imbalanced, it needs to be handled before model building. The feature 'amt' represents the transaction amount. The feature 'is_fraud' represents class labelling and takes the value 1 the transaction is a fraudulent transaction and 0, otherwise.
 
- ## Project pipeline
+ ## :bookmark: Project pipeline
  The project pipeline can be briefly summarised in the following steps:
 
 **Understanding Data**: In this step, you need to load the data and understand the features present in it. This will help you choose the features that you need for your final model.
@@ -57,7 +57,7 @@ Thus, the cost incurred now is due to the left out fraudulent transactions that 
 
 You need to perform the following calculations sequentially to arrive at the final savings that your model can potentially provide to Finex.
 
-## Cost-Benefit Analysis
+## :bookmark: Cost-Benefit Analysis
 Part I: Analyse the dataset and find the following figures:
 - Average number of transactions per month 
 - Average number of fraudulent transactions per month
